@@ -1,6 +1,4 @@
-Here is a **plain text version** of the README content (no Markdown, no formatting), suitable for copying anywhere:
 
----
 
 Airways Customer Experience Analysis (Tableau)
 
@@ -53,5 +51,3 @@ Author
 Varun
 
 ---
-
-If you want a **shorter**, **resume-style**, or **non-technical** version, tell me and I’ll rewrite it.
